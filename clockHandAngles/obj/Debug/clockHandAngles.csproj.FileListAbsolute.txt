@@ -1,0 +1,6 @@
+J:\C#HomeStudies\clockHandAngles\clockHandAngles\bin\Debug\clockHandAngles.exe.config
+J:\C#HomeStudies\clockHandAngles\clockHandAngles\bin\Debug\clockHandAngles.exe
+J:\C#HomeStudies\clockHandAngles\clockHandAngles\bin\Debug\clockHandAngles.pdb
+J:\C#HomeStudies\clockHandAngles\clockHandAngles\obj\Debug\clockHandAngles.exe
+J:\C#HomeStudies\clockHandAngles\clockHandAngles\obj\Debug\clockHandAngles.pdb
+J:\C#HomeStudies\clockHandAngles\clockHandAngles\obj\Debug\clockHandAngles.csprojResolveAssemblyReference.cache
